@@ -1,0 +1,7 @@
+{
+  "name": "RetailFlow POS",
+  "description": "A professional, responsive Point of Sale system for small retail businesses featuring real-time dashboards, inventory management, and a streamlined checkout process.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
